@@ -21,6 +21,18 @@
 
 # Visual Studio cache directory
 .vs/
+*.sln
+*.pidb
+*.pdb
+*.pdb.meta
+*.suo
+*.user
+*.userprefs
+*.svd
+*.unityproj
+*.csproj
+*.booproj
+.vscode/
 
 # Gradle cache directory
 .gradle/
